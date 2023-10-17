@@ -1,0 +1,2169 @@
+{
+  "keyIds": [
+    {
+      "comment": "=-=-=-=- row 1 -=-=-=-=-"
+    },
+    {
+      "id": "escape",
+      "group": "left",
+      "row": 1,
+      "column": 1
+    },
+    {
+      "id": "number1",
+      "group": "left",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "number2",
+      "group": "left",
+      "row": 1,
+      "column": 3
+    },
+    {
+      "id": "number3",
+      "group": "left",
+      "row": 1,
+      "column": 4
+    },
+    {
+      "id": "number4",
+      "group": "left",
+      "row": 1,
+      "column": 5
+    },
+    {
+      "id": "number5",
+      "group": "left",
+      "row": 1,
+      "column": 6
+    },
+    {
+      "id": "keypad",
+      "group": "left",
+      "row": 1,
+      "column": 7
+    },
+    {
+      "id": "mod",
+      "group": "right",
+      "row": 1,
+      "column": 1
+    },
+    {
+      "id": "number6",
+      "group": "right",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "number7",
+      "group": "right",
+      "row": 1,
+      "column": 3
+    },
+    {
+      "id": "number8",
+      "group": "right",
+      "row": 1,
+      "column": 4
+    },
+    {
+      "id": "number9",
+      "group": "right",
+      "row": 1,
+      "column": 5
+    },
+    {
+      "id": "number0",
+      "group": "right",
+      "row": 1,
+      "column": 6
+    },
+    {
+      "id": "minusUnderscore",
+      "group": "right",
+      "row": 1,
+      "column": 7
+    },
+    {
+      "comment": "=-=-=-=- row 2 -=-=-=-=-"
+    },
+    {
+      "id": "tab",
+      "group": "left",
+      "row": 2,
+      "column": 1
+    },
+    {
+      "id": "letterQ",
+      "group": "left",
+      "row": 2,
+      "column": 2
+    },
+    {
+      "id": "letterW",
+      "group": "left",
+      "row": 2,
+      "column": 3
+    },
+    {
+      "id": "letterE",
+      "group": "left",
+      "row": 2,
+      "column": 4
+    },
+    {
+      "id": "letterR",
+      "group": "left",
+      "row": 2,
+      "column": 5
+    },
+    {
+      "id": "letterT",
+      "group": "left",
+      "row": 2,
+      "column": 6
+    },
+    {
+      "id": "macro1",
+      "group": "left",
+      "row": 2,
+      "column": 7
+    },
+    {
+      "id": "macro3",
+      "group": "right",
+      "row": 2,
+      "column": 1
+    },
+    {
+      "id": "letterY",
+      "group": "right",
+      "row": 2,
+      "column": 2
+    },
+    {
+      "id": "letterU",
+      "group": "right",
+      "row": 2,
+      "column": 3
+    },
+    {
+      "id": "letterI",
+      "group": "right",
+      "row": 2,
+      "column": 4
+    },
+    {
+      "id": "letterO",
+      "group": "right",
+      "row": 2,
+      "column": 5
+    },
+    {
+      "id": "letterP",
+      "group": "right",
+      "row": 2,
+      "column": 6
+    },
+    {
+      "id": "backslashPipe",
+      "group": "right",
+      "row": 2,
+      "column": 7
+    },
+    {
+      "comment": "=-=-=-=- row 3 -=-=-=-=-"
+    },
+    {
+      "id": "graveAccent",
+      "group": "left",
+      "row": 3,
+      "column": 1
+    },
+    {
+      "id": "letterA",
+      "group": "left",
+      "row": 3,
+      "column": 2
+    },
+    {
+      "id": "letterS",
+      "group": "left",
+      "row": 3,
+      "column": 3
+    },
+    {
+      "id": "letterD",
+      "group": "left",
+      "row": 3,
+      "column": 4
+    },
+    {
+      "id": "letterF",
+      "group": "left",
+      "row": 3,
+      "column": 5
+    },
+    {
+      "id": "letterG",
+      "group": "left",
+      "row": 3,
+      "column": 6
+    },
+    {
+      "id": "macro2",
+      "group": "left",
+      "row": 3,
+      "column": 7
+    },
+    {
+      "id": "macro4",
+      "group": "right",
+      "row": 3,
+      "column": 1
+    },
+    {
+      "id": "letterH",
+      "group": "right",
+      "row": 3,
+      "column": 2
+    },
+    {
+      "id": "letterJ",
+      "group": "right",
+      "row": 3,
+      "column": 3
+    },
+    {
+      "id": "letterK",
+      "group": "right",
+      "row": 3,
+      "column": 4
+    },
+    {
+      "id": "letterL",
+      "group": "right",
+      "row": 3,
+      "column": 5
+    },
+    {
+      "id": "semicolonColon",
+      "group": "right",
+      "row": 3,
+      "column": 6
+    },
+    {
+      "id": "quoteDoubleQuote",
+      "group": "right",
+      "row": 3,
+      "column": 7
+    },
+    {
+      "comment": "=-=-=-=- row 4 -=-=-=-=-"
+    },
+    {
+      "id": "leftShift",
+      "group": "left",
+      "row": 4,
+      "column": 1
+    },
+    {
+      "id": "letterZ",
+      "group": "left",
+      "row": 4,
+      "column": 2
+    },
+    {
+      "id": "letterX",
+      "group": "left",
+      "row": 4,
+      "column": 3
+    },
+    {
+      "id": "letterC",
+      "group": "left",
+      "row": 4,
+      "column": 4
+    },
+    {
+      "id": "letterV",
+      "group": "left",
+      "row": 4,
+      "column": 5
+    },
+    {
+      "id": "letterB",
+      "group": "left",
+      "row": 4,
+      "column": 6
+    },
+    {
+      "id": "letterN",
+      "group": "right",
+      "row": 4,
+      "column": 1
+    },
+    {
+      "id": "letterM",
+      "group": "right",
+      "row": 4,
+      "column": 2
+    },
+    {
+      "id": "commaLessThan",
+      "group": "right",
+      "row": 4,
+      "column": 3
+    },
+    {
+      "id": "periodGreaterThan",
+      "group": "right",
+      "row": 4,
+      "column": 4
+    },
+    {
+      "id": "slashQuestionMark",
+      "group": "right",
+      "row": 4,
+      "column": 5
+    },
+    {
+      "id": "rightShift",
+      "group": "right",
+      "row": 4,
+      "column": 6
+    },
+    {
+      "comment": "=-=-=-=- row 5 -=-=-=-=-"
+    },
+    {
+      "id": "leftFn",
+      "group": "left",
+      "row": 5,
+      "column": 1
+    },
+    {
+      "id": "equalPlus",
+      "group": "left",
+      "row": 5,
+      "column": 2
+    },
+    {
+      "id": "leftGui",
+      "group": "left",
+      "row": 5,
+      "column": 3
+    },
+    {
+      "id": "leftArrow",
+      "group": "left",
+      "row": 5,
+      "column": 4
+    },
+    {
+      "id": "rightArrow",
+      "group": "left",
+      "row": 5,
+      "column": 5
+    },
+    {
+      "id": "upArrow",
+      "group": "right",
+      "row": 5,
+      "column": 1
+    },
+    {
+      "id": "downArrow",
+      "group": "right",
+      "row": 5,
+      "column": 2
+    },
+    {
+      "id": "leftBracket",
+      "group": "right",
+      "row": 5,
+      "column": 3
+    },
+    {
+      "id": "rightBracket",
+      "group": "right",
+      "row": 5,
+      "column": 4
+    },
+    {
+      "id": "rightFn",
+      "group": "right",
+      "row": 5,
+      "column": 5
+    },
+    {
+      "comment": "=-=-=-=- Left Thumb Group -=-=-=-=-"
+    },
+    {
+      "id": "leftCtrl",
+      "group": "leftThumb",
+      "row": 1,
+      "column": 1
+    },
+    {
+      "id": "leftAlt",
+      "group": "leftThumb",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "home",
+      "group": "leftThumb",
+      "row": 2,
+      "column": 3
+    },
+    {
+      "id": "backspace",
+      "group": "leftThumb",
+      "row": 3,
+      "column": 1
+    },
+    {
+      "id": "delete",
+      "group": "leftThumb",
+      "row": 3,
+      "column": 2
+    },
+    {
+      "id": "end",
+      "group": "leftThumb",
+      "row": 3,
+      "column": 3
+    },
+    {
+      "comment": "=-=-=-=- Right Thumb Group -=-=-=-=-"
+    },
+    {
+      "id": "rightGui",
+      "group": "rightThumb",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "rightCtrl",
+      "group": "rightThumb",
+      "row": 1,
+      "column": 3
+    },
+    {
+      "id": "pageUp",
+      "group": "rightThumb",
+      "row": 2,
+      "column": 2
+    },
+    {
+      "id": "pageDown",
+      "group": "rightThumb",
+      "row": 3,
+      "column": 1
+    },
+    {
+      "id": "enter",
+      "group": "rightThumb",
+      "row": 3,
+      "column": 2
+    },
+    {
+      "id": "space",
+      "group": "rightThumb",
+      "row": 3,
+      "column": 3
+    }
+  ],
+  "layers": {
+    "base": {
+      "keys": [
+        {
+          "id": "escape",
+          "action": "kp",
+          "value": "ESC"
+        },
+        {
+          "id": "number1",
+          "action": "kp",
+          "value": "N1"
+        },
+        {
+          "id": "number2",
+          "action": "kp",
+          "value": "N2"
+        },
+        {
+          "id": "number3",
+          "action": "kp",
+          "value": "N3"
+        },
+        {
+          "id": "number4",
+          "action": "kp",
+          "value": "N4"
+        },
+        {
+          "id": "number5",
+          "action": "kp",
+          "value": "N5"
+        },
+        {
+          "id": "keypad",
+          "action": "tog",
+          "value": "1"
+        },
+        {
+          "id": "mod",
+          "action": "mo",
+          "value": "3"
+        },
+        {
+          "id": "number6",
+          "action": "kp",
+          "value": "N6"
+        },
+        {
+          "id": "number7",
+          "action": "kp",
+          "value": "N7"
+        },
+        {
+          "id": "number8",
+          "action": "kp",
+          "value": "N8"
+        },
+        {
+          "id": "number9",
+          "action": "kp",
+          "value": "N9"
+        },
+        {
+          "id": "number0",
+          "action": "kp",
+          "value": "N0"
+        },
+        {
+          "id": "minusUnderscore",
+          "action": "kp",
+          "value": "MINUS"
+        },
+        {
+          "id": "tab",
+          "action": "kp",
+          "value": "TAB"
+        },
+        {
+          "id": "letterQ",
+          "action": "kp",
+          "value": "Q"
+        },
+        {
+          "id": "letterW",
+          "action": "kp",
+          "value": "W"
+        },
+        {
+          "id": "letterE",
+          "action": "kp",
+          "value": "E"
+        },
+        {
+          "id": "letterR",
+          "action": "kp",
+          "value": "R"
+        },
+        {
+          "id": "letterT",
+          "action": "kp",
+          "value": "T"
+        },
+        {
+          "id": "macro1",
+          "action": "macro_quotes",
+          "value": ""
+        },
+        {
+          "id": "macro3",
+          "action": "macro_braces",
+          "value": ""
+        },
+        {
+          "id": "letterY",
+          "action": "kp",
+          "value": "Y"
+        },
+        {
+          "id": "letterU",
+          "action": "kp",
+          "value": "U"
+        },
+        {
+          "id": "letterI",
+          "action": "kp",
+          "value": "I"
+        },
+        {
+          "id": "letterO",
+          "action": "kp",
+          "value": "O"
+        },
+        {
+          "id": "letterP",
+          "action": "kp",
+          "value": "P"
+        },
+        {
+          "id": "backslashPipe",
+          "action": "kp",
+          "value": "BSLH"
+        },
+        {
+          "id": "graveAccent",
+          "action": "kp",
+          "value": "GRAVE"
+        },
+        {
+          "id": "letterA",
+          "action": "kp",
+          "value": "A"
+        },
+        {
+          "id": "letterS",
+          "action": "kp",
+          "value": "S"
+        },
+        {
+          "id": "letterD",
+          "action": "kp",
+          "value": "D"
+        },
+        {
+          "id": "letterF",
+          "action": "kp",
+          "value": "F"
+        },
+        {
+          "id": "letterG",
+          "action": "kp",
+          "value": "G"
+        },
+        {
+          "id": "macro2",
+          "action": "macro_dquotes",
+          "value": ""
+        },
+        {
+          "id": "leftCtrl",
+          "action": "kp",
+          "value": "LCTRL"
+        },
+        {
+          "id": "leftAlt",
+          "action": "kp",
+          "value": "LALT"
+        },
+        {
+          "id": "rightGui",
+          "action": "kp",
+          "value": "RGUI"
+        },
+        {
+          "id": "rightCtrl",
+          "action": "kp",
+          "value": "RCTRL"
+        },
+        {
+          "id": "macro4",
+          "action": "macro_parens",
+          "value": ""
+        },
+        {
+          "id": "letterH",
+          "action": "kp",
+          "value": "H"
+        },
+        {
+          "id": "letterJ",
+          "action": "kp",
+          "value": "J"
+        },
+        {
+          "id": "letterK",
+          "action": "kp",
+          "value": "K"
+        },
+        {
+          "id": "letterL",
+          "action": "kp",
+          "value": "L"
+        },
+        {
+          "id": "semicolonColon",
+          "action": "kp",
+          "value": "SEMI"
+        },
+        {
+          "id": "quoteDoubleQuote",
+          "action": "kp",
+          "value": "SQT"
+        },
+        {
+          "id": "leftShift",
+          "action": "kp",
+          "value": "LSHFT"
+        },
+        {
+          "id": "letterZ",
+          "action": "kp",
+          "value": "Z"
+        },
+        {
+          "id": "letterX",
+          "action": "kp",
+          "value": "X"
+        },
+        {
+          "id": "letterC",
+          "action": "kp",
+          "value": "C"
+        },
+        {
+          "id": "letterV",
+          "action": "kp",
+          "value": "V"
+        },
+        {
+          "id": "letterB",
+          "action": "kp",
+          "value": "B"
+        },
+        {
+          "id": "home",
+          "action": "kp",
+          "value": "HOME"
+        },
+        {
+          "id": "pageUp",
+          "action": "kp",
+          "value": "PG_UP"
+        },
+        {
+          "id": "letterN",
+          "action": "kp",
+          "value": "N"
+        },
+        {
+          "id": "letterM",
+          "action": "kp",
+          "value": "M"
+        },
+        {
+          "id": "commaLessThan",
+          "action": "kp",
+          "value": "COMMA"
+        },
+        {
+          "id": "periodGreaterThan",
+          "action": "kp",
+          "value": "DOT"
+        },
+        {
+          "id": "slashQuestionMark",
+          "action": "kp",
+          "value": "FSLH"
+        },
+        {
+          "id": "rightShift",
+          "action": "kp",
+          "value": "RSHFT"
+        },
+        {
+          "id": "leftFn",
+          "action": "mo",
+          "value": "2"
+        },
+        {
+          "id": "equalPlus",
+          "action": "kp",
+          "value": "EQUAL"
+        },
+        {
+          "id": "leftGui",
+          "action": "kp",
+          "value": "LGUI"
+        },
+        {
+          "id": "leftArrow",
+          "action": "kp",
+          "value": "LEFT"
+        },
+        {
+          "id": "rightArrow",
+          "action": "kp",
+          "value": "RIGHT"
+        },
+        {
+          "id": "backspace",
+          "action": "kp",
+          "value": "BSPC"
+        },
+        {
+          "id": "delete",
+          "action": "kp",
+          "value": "DEL"
+        },
+        {
+          "id": "end",
+          "action": "kp",
+          "value": "END"
+        },
+        {
+          "id": "pageDown",
+          "action": "kp",
+          "value": "PG_DN"
+        },
+        {
+          "id": "enter",
+          "action": "kp",
+          "value": "ENTER"
+        },
+        {
+          "id": "space",
+          "action": "kp",
+          "value": "SPACE"
+        },
+        {
+          "id": "upArrow",
+          "action": "kp",
+          "value": "UP"
+        },
+        {
+          "id": "downArrow",
+          "action": "kp",
+          "value": "DOWN"
+        },
+        {
+          "id": "leftBracket",
+          "action": "kp",
+          "value": "LBKT"
+        },
+        {
+          "id": "rightBracket",
+          "action": "kp",
+          "value": "RBKT"
+        },
+        {
+          "id": "rightFn",
+          "action": "mo",
+          "value": "2"
+        },
+        {
+          "id": "noKey1",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey2",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey3",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey4",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey5",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey6",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey7",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey8",
+          "action": "none",
+          "value": ""
+        }
+      ]
+    },
+    "keypad": {
+      "keys": [
+        {
+          "id": "escape",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "number1",
+          "action": "kp",
+          "value": "N1"
+        },
+        {
+          "id": "number2",
+          "action": "kp",
+          "value": "N2"
+        },
+        {
+          "id": "number3",
+          "action": "kp",
+          "value": "N3"
+        },
+        {
+          "id": "number4",
+          "action": "kp",
+          "value": "N4"
+        },
+        {
+          "id": "number5",
+          "action": "kp",
+          "value": "N5"
+        },
+        {
+          "id": "keypad",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "mod",
+          "action": "mo",
+          "value": "3"
+        },
+        {
+          "id": "number6",
+          "action": "kp",
+          "value": "N6"
+        },
+        {
+          "id": "number7",
+          "action": "kp",
+          "value": "KP_NUM"
+        },
+        {
+          "id": "number8",
+          "action": "kp",
+          "value": "KP_EQUAL"
+        },
+        {
+          "id": "number9",
+          "action": "kp",
+          "value": "KP_DIVIDE"
+        },
+        {
+          "id": "number0",
+          "action": "kp",
+          "value": "KP_MULTIPLY"
+        },
+        {
+          "id": "minusUnderscore",
+          "action": "kp",
+          "value": "MINUS"
+        },
+        {
+          "id": "tab",
+          "action": "kp",
+          "value": "TAB"
+        },
+        {
+          "id": "letterQ",
+          "action": "kp",
+          "value": "Q"
+        },
+        {
+          "id": "letterW",
+          "action": "kp",
+          "value": "W"
+        },
+        {
+          "id": "letterE",
+          "action": "kp",
+          "value": "E"
+        },
+        {
+          "id": "letterR",
+          "action": "kp",
+          "value": "R"
+        },
+        {
+          "id": "letterT",
+          "action": "kp",
+          "value": "T"
+        },
+        {
+          "id": "macro1",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "macro3",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterY",
+          "action": "kp",
+          "value": "Y"
+        },
+        {
+          "id": "letterU",
+          "action": "kp",
+          "value": "KP_N7"
+        },
+        {
+          "id": "letterI",
+          "action": "kp",
+          "value": "KP_N8"
+        },
+        {
+          "id": "letterO",
+          "action": "kp",
+          "value": "KP_N9"
+        },
+        {
+          "id": "letterP",
+          "action": "kp",
+          "value": "KP_MINUS"
+        },
+        {
+          "id": "backslashPipe",
+          "action": "kp",
+          "value": "BSLH"
+        },
+        {
+          "id": "graveAccent",
+          "action": "kp",
+          "value": "GRAVE"
+        },
+        {
+          "id": "letterA",
+          "action": "kp",
+          "value": "A"
+        },
+        {
+          "id": "letterS",
+          "action": "kp",
+          "value": "S"
+        },
+        {
+          "id": "letterD",
+          "action": "kp",
+          "value": "D"
+        },
+        {
+          "id": "letterF",
+          "action": "kp",
+          "value": "F"
+        },
+        {
+          "id": "letterG",
+          "action": "kp",
+          "value": "G"
+        },
+        {
+          "id": "macro2",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftCtrl",
+          "action": "kp",
+          "value": "LCTRL"
+        },
+        {
+          "id": "leftAlt",
+          "action": "kp",
+          "value": "LALT"
+        },
+        {
+          "id": "rightGui",
+          "action": "kp",
+          "value": "LGUI"
+        },
+        {
+          "id": "rightCtrl",
+          "action": "kp",
+          "value": "RCTRL"
+        },
+        {
+          "id": "macro4",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterH",
+          "action": "kp",
+          "value": "H"
+        },
+        {
+          "id": "letterJ",
+          "action": "kp",
+          "value": "KP_N4"
+        },
+        {
+          "id": "letterK",
+          "action": "kp",
+          "value": "KP_N5"
+        },
+        {
+          "id": "letterL",
+          "action": "kp",
+          "value": "KP_N6"
+        },
+        {
+          "id": "semicolonColon",
+          "action": "kp",
+          "value": "KP_PLUS"
+        },
+        {
+          "id": "quoteDoubleQuote",
+          "action": "kp",
+          "value": "SQT"
+        },
+        {
+          "id": "leftShift",
+          "action": "kp",
+          "value": "LSHFT"
+        },
+        {
+          "id": "letterZ",
+          "action": "kp",
+          "value": "Z"
+        },
+        {
+          "id": "letterX",
+          "action": "kp",
+          "value": "X"
+        },
+        {
+          "id": "letterC",
+          "action": "kp",
+          "value": "C"
+        },
+        {
+          "id": "letterV",
+          "action": "kp",
+          "value": "V"
+        },
+        {
+          "id": "letterB",
+          "action": "kp",
+          "value": "B"
+        },
+        {
+          "id": "noKey1",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey2",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "home",
+          "action": "kp",
+          "value": "HOME"
+        },
+        {
+          "id": "noKey3",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey4",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "pageUp",
+          "action": "kp",
+          "value": "PG_UP"
+        },
+        {
+          "id": "noKey5",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey6",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterN",
+          "action": "kp",
+          "value": "N"
+        },
+        {
+          "id": "letterM",
+          "action": "kp",
+          "value": "KP_N1"
+        },
+        {
+          "id": "commaLessThan",
+          "action": "kp",
+          "value": "KP_N2"
+        },
+        {
+          "id": "periodGreaterThan",
+          "action": "kp",
+          "value": "KP_N3"
+        },
+        {
+          "id": "slashQuestionMark",
+          "action": "kp",
+          "value": "KP_ENTER"
+        },
+        {
+          "id": "rightShift",
+          "action": "kp",
+          "value": "RSHFT"
+        },
+        {
+          "id": "leftFn",
+          "action": "mo",
+          "value": "2"
+        },
+        {
+          "id": "equalPlus",
+          "action": "kp",
+          "value": "EQUAL"
+        },
+        {
+          "id": "leftGui",
+          "action": "kp",
+          "value": "CAPS"
+        },
+        {
+          "id": "leftArrow",
+          "action": "kp",
+          "value": "LEFT"
+        },
+        {
+          "id": "rightArrow",
+          "action": "kp",
+          "value": "RIGHT"
+        },
+        {
+          "id": "backspace",
+          "action": "kp",
+          "value": "BSPC"
+        },
+        {
+          "id": "delete",
+          "action": "kp",
+          "value": "DEL"
+        },
+        {
+          "id": "end",
+          "action": "kp",
+          "value": "END"
+        },
+        {
+          "id": "pageDown",
+          "action": "kp",
+          "value": "PG_DN"
+        },
+        {
+          "id": "enter",
+          "action": "kp",
+          "value": "ENTER"
+        },
+        {
+          "id": "space",
+          "action": "kp",
+          "value": "KP_N0"
+        },
+        {
+          "id": "upArrow",
+          "action": "kp",
+          "value": "UP"
+        },
+        {
+          "id": "downArrow",
+          "action": "kp",
+          "value": "DOWN"
+        },
+        {
+          "id": "leftBracket",
+          "action": "kp",
+          "value": "KP_DOT"
+        },
+        {
+          "id": "rightBracket",
+          "action": "kp",
+          "value": "RBKT"
+        },
+        {
+          "id": "rightFn",
+          "action": "mo",
+          "value": "2"
+        }
+      ]
+    },
+    "fn": {
+      "keys": [
+        {
+          "id": "escape",
+          "action": "kp",
+          "value": "F1"
+        },
+        {
+          "id": "number1",
+          "action": "kp",
+          "value": "F2"
+        },
+        {
+          "id": "number2",
+          "action": "kp",
+          "value": "F3"
+        },
+        {
+          "id": "number3",
+          "action": "kp",
+          "value": "F4"
+        },
+        {
+          "id": "number4",
+          "action": "kp",
+          "value": "F5"
+        },
+        {
+          "id": "number5",
+          "action": "kp",
+          "value": "F6"
+        },
+        {
+          "id": "keypad",
+          "action": "macro_kinesis",
+          "value": ""
+        },
+        {
+          "id": "mod",
+          "action": "mo",
+          "value": "3"
+        },
+        {
+          "id": "number6",
+          "action": "kp",
+          "value": "F7"
+        },
+        {
+          "id": "number7",
+          "action": "kp",
+          "value": "F8"
+        },
+        {
+          "id": "number8",
+          "action": "kp",
+          "value": "F9"
+        },
+        {
+          "id": "number9",
+          "action": "kp",
+          "value": "F10"
+        },
+        {
+          "id": "number0",
+          "action": "kp",
+          "value": "F11"
+        },
+        {
+          "id": "minusUnderscore",
+          "action": "kp",
+          "value": "F12"
+        },
+        {
+          "id": "tab",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterQ",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterW",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterE",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterR",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterT",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "macro1",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "macro3",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterY",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterU",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterI",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterO",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterP",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "backslashPipe",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "graveAccent",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterA",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterS",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterD",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterF",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterG",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "macro2",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "leftCtrl",
+          "action": "kp",
+          "value": "LCTRL"
+        },
+        {
+          "id": "leftAlt",
+          "action": "kp",
+          "value": "LGUI"
+        },
+        {
+          "id": "rightGui",
+          "action": "kp",
+          "value": "RALT"
+        },
+        {
+          "id": "rightCtrl",
+          "action": "kp",
+          "value": "RCTRL"
+        },
+        {
+          "id": "macro4",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterH",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterJ",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterK",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterL",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "semicolonColon",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "quoteDoubleQuote",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "leftShift",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterZ",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterX",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterC",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterV",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterB",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "home",
+          "action": "kp",
+          "value": "PG_UP"
+        },
+        {
+          "id": "pageUp",
+          "action": "kp",
+          "value": "HOME"
+        },
+        {
+          "id": "letterN",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "letterM",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "commaLessThan",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "periodGreaterThan",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "slashQuestionMark",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "rightShift",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "leftFn",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "equalPlus",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "leftGui",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "leftArrow",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "rightArrow",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "backspace",
+          "action": "kp",
+          "value": "SPACE"
+        },
+        {
+          "id": "delete",
+          "action": "kp",
+          "value": "ENTER"
+        },
+        {
+          "id": "end",
+          "action": "kp",
+          "value": "PG_DN"
+        },
+        {
+          "id": "pageDown",
+          "action": "kp",
+          "value": "END"
+        },
+        {
+          "id": "enter",
+          "action": "kp",
+          "value": "DEL"
+        },
+        {
+          "id": "space",
+          "action": "kp",
+          "value": "BSPC"
+        },
+        {
+          "id": "upArrow",
+          "action": "kp",
+          "value": "C_VOL_UP"
+        },
+        {
+          "id": "downArrow",
+          "action": "kp",
+          "value": "C_VOL_DN"
+        },
+        {
+          "id": "leftBracket",
+          "action": "kp",
+          "value": "C_MUTE"
+        },
+        {
+          "id": "rightBracket",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "rightFn",
+          "action": "trans",
+          "value": ""
+        },
+        {
+          "id": "noKey1",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey2",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey3",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey4",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey5",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey6",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey7",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey8",
+          "action": "none",
+          "value": ""
+        }
+      ]
+    },
+    "mod": {
+      "keys": [
+        {
+          "id": "escape",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number1",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number2",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number3",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number4",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number5",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "keypad",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "mod",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number6",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number7",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number8",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number9",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "number0",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "minusUnderscore",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "tab",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterQ",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterW",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterE",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterR",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterT",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "macro1",
+          "action": "bootloader",
+          "value": ""
+        },
+        {
+          "id": "macro3",
+          "action": "bootloader",
+          "value": ""
+        },
+        {
+          "id": "letterY",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterU",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterI",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterO",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterP",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "backslashPipe",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "graveAccent",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterA",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterS",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterD",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterF",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterG",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "macro2",
+          "action": "sys_reset",
+          "value": ""
+        },
+        {
+          "id": "leftCtrl",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftAlt",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "rightGui",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "rightCtrl",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "macro4",
+          "action": "sys_reset",
+          "value": ""
+        },
+        {
+          "id": "letterH",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterJ",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterK",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterL",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "semicolonColon",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "quoteDoubleQuote",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftShift",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterZ",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterX",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterC",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterV",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterB",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "home",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "pageUp",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterN",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "letterM",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "commaLessThan",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "periodGreaterThan",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "slashQuestionMark",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "rightShift",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftFn",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "equalPlus",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftGui",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftArrow",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "rightArrow",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "backspace",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "delete",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "end",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "pageDown",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "enter",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "space",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "upArrow",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "downArrow",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "leftBracket",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "rightBracket",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "rightFn",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey1",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey2",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey3",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey4",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey5",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey6",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey7",
+          "action": "none",
+          "value": ""
+        },
+        {
+          "id": "noKey8",
+          "action": "none",
+          "value": ""
+        }
+      ]
+    }
+  }
+}

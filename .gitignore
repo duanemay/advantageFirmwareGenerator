@@ -1,0 +1,9 @@
+firmware/
+firmware/*uf2
+.Adv360/
+keymap.json
+adv360.keymap
+template.keymap
+
+keys.json
+macros.dtsi
